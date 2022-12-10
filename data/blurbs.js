@@ -1,4 +1,4 @@
-export const blurbs = {
+const blurbs = {
   dn1: "While others may praise or criticize the Buddha, they tend to focus on trivial details. The Buddha presents an analysis of 62 kinds of wrong view, seeing through which one becomes detached from meaningless speculations.",
   dn2: "The newly crowned King Ajātasattu is disturbed by the violent means by which he achieved the crown. He visits the Buddha to find peace of mind, and asks him about the benefits of spiritual practice. This is one of the greatest literary and spiritual texts of early Buddhism.",
   dn3: "A young brahmin student attacks the Buddha’s family, but is put in his place.",
@@ -5202,3 +5202,5 @@ export const blurbs = {
   pv50: "Ghosts discuss their past about not practicing generosity.",
   pv51: "Arahant Moggallana asks a ghost about his past evil actions.",
 };
+
+module.exports = { blurbs };

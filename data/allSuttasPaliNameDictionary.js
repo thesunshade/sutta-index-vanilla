@@ -1,4 +1,4 @@
-export const allSuttasPaliNameDictionary = {
+const allSuttasPaliNameDictionary = {
   DN1: "Brahmajāla",
   DN2: "Sāmaññaphala",
   DN3: "Ambaṭṭha",
@@ -5599,3 +5599,5 @@ export const allSuttasPaliNameDictionary = {
   "Thig15.1": "Isidāsītherīgāthā",
   "Thig16.1": "Sumedhātherīgāthā",
 };
+
+module.exports = { allSuttasPaliNameDictionary };

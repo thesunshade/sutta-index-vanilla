@@ -1,4 +1,4 @@
-export const indexObject ={
+const indexObject ={
      "A": {
           "abandoning (pajahati, pahāna)": {
                "unwholesome thoughts": {
@@ -54911,3 +54911,5 @@ export const indexObject ={
           }
      }
 }
+
+module.exports = { indexObject };
