@@ -569,7 +569,8 @@ a:visited {
     padding-top: .50rem;
     padding-bottom: .2rem;
     position: sticky;
-    top: 4.6rem;
+    /* top: 4.6rem; */
+    top: .1px;
     background-color: var(--offwhite);
 }
 

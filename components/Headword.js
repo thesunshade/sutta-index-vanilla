@@ -31,7 +31,7 @@ function Headword(headword, headwordObject) {
 
   return `<div id="${makeNormalizedId(headword)}">
       <div class="head-word-area">
-        <span class="keyword">${headword}</span>
+        <span class="head-word">${headword}</span>
       </div>
       ${noSubwordLocators}
       ${subwords}
